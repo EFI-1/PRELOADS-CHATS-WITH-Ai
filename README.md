@@ -4,7 +4,7 @@ Github Pages: https://efi-1.github.io/PRELOADS-CHATS-WITH-Ai
 # "FORMATTED DISCUSSION WITH A.I. 1" (CONCEPT) (WIP)
 <br>
 <br>
-https://github.com/EFI-1/PRELOADS-CHATS-WITH-Ai/blob/main/docs/sample.pdf
+https://github.com/EFI-1/PRELOADS-CHATS-WITH-Ai/blob/main/docs/sample1.pdf
 <br>
 <br>
 2026 EFI-1 Radio 1 S A N D B O X AT THE LIVE!DOCS (TinyURL /SATLD) 1
