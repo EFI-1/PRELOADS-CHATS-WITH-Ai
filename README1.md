@@ -6,7 +6,7 @@ https://www.TinyURL.com/SATLD SATURDAY! AT THE LIVEDOCKS!!
 <br>
 # "FORMATTED DISCUSSION WITH A.I. 1" (CONCEPT) (WIP)
 <br>
-https://github.com/EFI-1/PRELOADS-CHATS-WITH-Ai/blob/main/docs/sample1.pdf
+## https://github.com/EFI-1/PRELOADS-CHATS-WITH-Ai/blob/main/docs/sample1.pdf
 <br>
 2026 EFI-1 Radio 1 S A N D B O X AT THE LIVE!DOCS (TinyURL /SATLD) 1
 <br>
