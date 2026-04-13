@@ -159,12 +159,11 @@ Mentions & References
 <br>
 <br>
 <br>
+https://www.TinyURL.com/SATLD SATURDAY! AT THE LIVEDOCKS!!
 <br>
-
+<br>
 ![Alt text](assets/default.jpg)
-
 <br>
-THE A.I. AT https://www.TinyURL.com/SATLD SATURDAY! AT THE LIVEDOCKS!!
 <br>
 <br>
 <br>
