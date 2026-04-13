@@ -4,7 +4,7 @@ Description
 # "LPM1": "Longplay Movie 1" (CONCEPT) (WIP)
 <br>
 <br>
-Github Pages: https://efi-1.github.io/PRELOADS-CHATS-WITH-A.I.)
+Github Pages: https://efi-1.github.io/PRELOADS-CHATS-WITH-A.I.
 <br>
 <br>
 2025 EFI-1 Radio 1 S A N D B O X AT THE LIVE!DOCS (TinyURL /SATLD) 1
