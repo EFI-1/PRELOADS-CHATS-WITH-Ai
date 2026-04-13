@@ -1,17 +1,15 @@
 FREE! FORMATTED CHATS-WITH-A.I. (TEMPLATES)
 <br>
+<br>
 Github Pages: https://efi-1.github.io/PRELOADS-CHATS-WITH-Ai
 <br>
 https://www.TinyURL.com/SATLD SATURDAY! AT THE LIVEDOCKS!!
 <br>
+<br>
+<br>
 # "FORMATTED DISCUSSION WITH A.I. 1" (CONCEPT) (WIP): https://github.com/EFI-1/PRELOADS-CHATS-WITH-Ai/blob/main/docs/sample1.pdf
 <br>
 2026 EFI-1 Radio 1 S A N D B O X AT THE LIVE!DOCS (TinyURL /SATLD) 1 | https://www.TinyURL.com/SATLD SATURDAY! AT THE LIVEDOCKS!!
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>
 <br>
@@ -186,11 +184,7 @@ Mentions & References
 <br>
 <br>
 <br>
-
-![Alt text](assets/default.jpg)
-
-<br>
-THE A.I. AT https://www.TinyURL.com/SATLD SATURDAY! AT THE LIVEDOCKS!!
+https://www.TinyURL.com/SATLD SATURDAY! AT THE LIVEDOCKS!!
 <br>
 <br>
 <br>
