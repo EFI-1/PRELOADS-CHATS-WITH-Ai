@@ -1,6 +1,8 @@
 FREE! FORMATTED CHATS-WITH-A.I. (TEMPLATES)
 Github Pages: https://efi-1.github.io/PRELOADS-CHATS-WITH-Ai
 
+https://www.TinyURL.com/SATLD SATURDAY! AT THE LIVEDOCKS!!
+
 # "FORMATTED DISCUSSION WITH A.I. 1" (CONCEPT) (WIP)
 <br>
 <br>
@@ -10,7 +12,41 @@ https://github.com/EFI-1/PRELOADS-CHATS-WITH-Ai/blob/main/docs/sample1.pdf
 2026 EFI-1 Radio 1 S A N D B O X AT THE LIVE!DOCS (TinyURL /SATLD) 1
 <br>
 <br>
-
+https://www.TinyURL.com/SATLD SATURDAY! AT THE LIVEDOCKS!!
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 # GFM Markdown Styling Demo
 <br>
 Here are the main text styles you can use in GitHub Flavored Markdown:
@@ -155,14 +191,6 @@ Mentions & References
 #123 → references an issue or pull request
 <br>
 -- >
-<br>
-<br>
-<br>
-<br>
-https://www.TinyURL.com/SATLD SATURDAY! AT THE LIVEDOCKS!!
-<br>
-<br>
-![Alt text](assets/default.jpg)
 <br>
 <br>
 <br>
