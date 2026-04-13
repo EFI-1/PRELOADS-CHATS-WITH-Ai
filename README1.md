@@ -27,13 +27,21 @@ https://www.TinyURL.com/SATLD SATURDAY! AT THE LIVEDOCKS!!
 <br>
 <br>
 <br>
+# "LPM1": "Longplay Movie 1" (CONCEPT) (WIP)
+<br>
+<br>
+Github Pages: https://efi-1.github.io/LPM1/
+<br>
+<br>
+2025 EFI-1 Radio 1 S A N D B O X AT THE LIVE!DOCS (TinyURL /SATLD) 1
+<br>
+<br>
+
 # GFM Markdown Styling Demo
 <br>
 Here are the main text styles you can use in GitHub Flavored Markdown:
 <br>
-<br>
-<br>
-<br>
+
 - **Bold:** `**bold text**` → **bold text**
 <br>
 - *Italic:* `*italic text*` → *italic text*
@@ -46,6 +54,7 @@ Here are the main text styles you can use in GitHub Flavored Markdown:
 <br>
 You can also mix them:
 <br>
+
 - **Bold + Italic:** `***bold italic***` → ***bold italic***
 <br>
 - **Bold + Strikethrough:** `~~**bold strike**~~` → ~~**bold strike**~~
@@ -54,6 +63,7 @@ You can also mix them:
 <br>
 ---
 <br>
+
 Bold + Italic combo (visual emphasis): Sometimes people simulate underline by combining styles:
 markdown
 <br>
@@ -72,16 +82,22 @@ Even More GitHub Flavored Markdown (GFM)
 <br>
 # H1
 <br>
+
 ## H2
 <br>
+
 ### H3
 <br>
+
 #### H4
 <br>
+
 ##### H5
 <br>
+
 ###### H6
 <br>
+
 Bold: **BOLD TEXT** → bold text
 <br>
 Italic: *italic text* → italic text
@@ -105,7 +121,9 @@ Ordered Lists
 2. Second
    1. Nested
 <br>
-> This is a blockquote 
+
+> This is a blockquote
+
 <br>
 Code
 <br>
@@ -122,6 +140,7 @@ function test() {
 <br>
 Misc.
 <br>
+
 ### Horizontal Rule
 <br>
 ```markdown
@@ -130,6 +149,7 @@ Misc.
 Images
 ---
 <br>
+
 [Link text](https://example.com)
 <br>
 ![Alt text](assets/image.jpg)
@@ -162,6 +182,15 @@ Mentions & References
 <br>
 -- >
 <br>
+<br>
+<br>
+<br>
+<br>
+
+![Alt text](assets/default.jpg)
+
+<br>
+THE A.I. AT https://www.TinyURL.com/SATLD SATURDAY! AT THE LIVEDOCKS!!
 <br>
 <br>
 <br>
